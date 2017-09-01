@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+Hello I am Brandon, a student at Sonoma State. Learning Github!
